@@ -4,7 +4,7 @@ torchvision
 numpy
 pillow
 matplotlib
-grad-cam
-opencv-python
+pytorch-grad-cam
+opencv-python-headless==4.8.1.78
 scikit-image
 reportlab
