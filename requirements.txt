@@ -4,7 +4,7 @@ torchvision
 numpy
 pillow
 matplotlib
-pytorch-grad-cam
+grad-cam
 opencv-python
 scikit-image
-reportlab
+reportlab 
