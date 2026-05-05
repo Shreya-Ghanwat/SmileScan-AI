@@ -5,6 +5,6 @@ numpy
 pillow
 matplotlib
 grad-cam
-opencv-python
+opencv-python-headless
 scikit-image
 reportlab 
